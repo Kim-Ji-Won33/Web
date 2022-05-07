@@ -1,7 +1,5 @@
-
 <html>
 <head>
-  <title>WEB - CSS</title>
   <meta charset="utf-8">
 </head>
 <body>
